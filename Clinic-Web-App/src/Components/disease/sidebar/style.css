@@ -1,0 +1,24 @@
+
+
+.muirtl-1ngr6yn-MuiListItemIcon-root {
+  margin-left: 17px !important;
+}
+
+.bottomPush {
+  position: "fixed";
+  bottom: 0;
+  text-Align: "center";
+}
+.sidbar-box2{
+  position: sticky;
+  top: 0;
+  box-shadow: 0px 4px 15px 0px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  border-radius: 50px;
+}
+@media only screen and (min-width: 900px) {
+  .sidbar-box2{
+    min-height: fit-content;
+  }
+ 
+}

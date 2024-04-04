@@ -1,0 +1,53 @@
+
+.background{
+    background-image: url("../assests/image/Frame.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.note-back{
+    background-image: url("../assests/image/Frame\ 44444.png");
+    margin-top: 5px;
+}
+.card-hover{
+    transition: all 0.3s ease-in ;
+}
+.card-hover :hover{
+    background-color: #238BEB !important;
+    color: #fff;
+    font-size: large;
+}
+
+.card-hover2{
+    transition: background-color 0.5s;
+}
+.card-hover2 :hover{
+    background-color: #EFF7FF;
+    color: #238BEB;
+}
+.card-hover3 img{
+    transition: transform 0.3s;
+}
+.card-hover3 :hover{
+    color: #238BEB;
+    font-size: large;
+}
+.card-hover3:hover img{
+    transform: scale(1.2);
+}
+
+.card-hover4 , .qiz-box-2 ,qiz-box-1{
+    transition: all 0.5s;
+}
+.card-hover4 :hover .qiz-box-2{
+    background-color: #238BEB26;
+    color: #238BEB;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.card-hover4 :hover .qiz-box-1{
+    background-color: #fff;
+}
+.text-hover :hover{
+    color: #238BEB !important;
+}

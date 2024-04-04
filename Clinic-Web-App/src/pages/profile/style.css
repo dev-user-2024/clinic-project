@@ -1,0 +1,13 @@
+.profile-input-style{
+    border:  1px solid #238BEB;
+    border-radius: 10px;
+    height: 40px;
+    padding:  0 5px;
+}
+.profile-input-style-disable{
+    border:  1px solid #949494;
+    border-radius: 10px;
+    height: 40px;
+    padding:  0 5px;
+
+}

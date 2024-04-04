@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: 'YekanBakh' !important;
+}
+.box-style{
+  box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.21);
+  border-radius: 20px;
+  background-color: #fff;
+}
+.input-style{
+  border: 1px solid #828282;
+  border-radius: 10px;
+  height: 40px;
+  font-family: 'YekanBakh';
+  padding: 0 8px;
+  font-weight: 700;
+}
+input{
+  font-family: 'YekanBakh';
+}
+select{
+  font-family: 'YekanBakh' ;
+}
+textarea{
+  font-family: 'YekanBakh';
+}

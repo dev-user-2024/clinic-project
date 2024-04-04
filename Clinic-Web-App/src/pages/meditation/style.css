@@ -1,0 +1,8 @@
+.meditation-header-box{
+    /* background-image: url('../../assests/image/svg/Line\ 5.svg'); */
+    background-size: contain;
+    background-repeat:repeat-y;
+    background-color: rgba(35, 139, 235, 1);
+    border-radius: 15px;
+    color: #fff;
+}

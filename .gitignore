@@ -1,0 +1,74 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/Clinic-Web-App/node_modules
+/Clinic-Web-App/.pnp
+Clinic-Web-App/.pnp.js
+
+# testing
+/Clinic-Web-App/coverage
+
+# production
+/Clinic-Web-App/build
+
+# misc
+Clinic-Web-App/.DS_Store
+Clinic-Web-App/.env.local
+Clinic-Web-App/.env.development.local
+Clinic-Web-App/.env.test.local
+Clinic-Web-App/.env.production.local
+
+Clinic-Web-App/npm-debug.log*
+Clinic-Web-App/yarn-debug.log*
+Clinic-Web-App/yarn-error.log*
+
+
+
+
+
+
+
+# dependencies
+/Clinic-Frontend/node_modules
+/Clinic-Frontend/.pnp
+Clinic-Frontend/.pnp.js
+
+# testing
+/Clinic-Frontend/coverage
+
+# production
+/Clinic-Frontend/build
+
+# misc
+Clinic-Frontend/.DS_Store
+Clinic-Frontend/.env.local
+Clinic-Frontend/.env.development.local
+Clinic-Frontend/.env.test.local
+Clinic-Frontend/.env.production.local
+
+Clinic-Frontend/npm-debug.log*
+Clinic-Frontend/yarn-debug.log*
+Clinic-Frontend/yarn-error.log*
+
+
+
+
+/Clinic-Backend/.phpunit.cache
+/Clinic-Backend/node_modules
+/Clinic-Backend/public/build
+/Clinic-Backend/public/hot
+/Clinic-Backend/public/storage
+/Clinic-Backend/storage/*.key
+/Clinic-Backend/vendor
+Clinic-Backend/.env
+Clinic-Backend/.env.backup
+Clinic-Backend/.env.production
+Clinic-Backend/.phpunit.result.cache
+Clinic-Backend/Homestead.json
+Clinic-Backend/Homestead.yaml
+Clinic-Backend/auth.json
+Clinic-Backend/npm-debug.log
+Clinic-Backend/yarn-error.log
+/Clinic-Backend/.fleet
+/Clinic-Backend/.idea
+/Clinic-Backend/.vscode

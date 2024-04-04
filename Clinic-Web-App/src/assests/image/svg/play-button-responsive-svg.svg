@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 82 82" width="82" height="82">
+	<title>play-button-responsive-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="41" y1="9.2" x2="55.6" y2="77.9" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#1d9bf0"/>
+			<stop offset=".7" stop-color="#0e80cc"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m41 81c-22.1 0-40-17.9-40-40 0-22.1 17.9-40 40-40 22.1 0 40 17.9 40 40 0 22.1-17.9 40-40 40z"/>
+	</g>
+	<path id="Layer" class="s1" d="m36.4 30.2l6.7 3.8 6.6 3.8c2.7 1.6 2.7 5.5 0 7.1l-6.6 3.8-6.7 3.8c-2.7 1.6-6.1-0.4-6.1-3.5v-15.3c0-3.1 3.4-5.1 6.1-3.5z"/>
+</svg>
